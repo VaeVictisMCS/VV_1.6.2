@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "NiCoLaS4658": {
+      "name": "NiCoLaS4658",
+      "playerUUID": "166824026e5742838b9de9782ee20e96"
+    }
+  },
+  "selectedProfile": "NiCoLaS4658",
+  "clientToken": "af2458d6-2f83-47eb-87cb-f42bae802854",
+  "authenticationDatabase": {
+    "166824026e5742838b9de9782ee20e96": {
+      "username": "nicolas.denisi@hotmail.fr",
+      "accessToken": "3d44c33ed5de4ca7ba147d91efb45225",
+      "uuid": "166824026e5742838b9de9782ee20e96",
+      "displayName": "NiCoLaS4658"
+    }
+  }
+}
